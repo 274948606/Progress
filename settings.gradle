@@ -1,0 +1,4 @@
+rootProject.name='Progress'
+include ':app'
+include ':permission'
+include ':inject_lay'
